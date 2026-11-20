@@ -39,4 +39,3 @@ Não foram incluídas datas relativas, parcelamento, garantia de resultado clín
 `node --test` cobre CPF, preço, idempotência, adulteração/expiração de sessão, status/valor, autenticação do webhook, referências de outros pedidos, falha do Pushcut, limites da operadora e proteção da origem. São testes com respostas simuladas; não geram cobranças nem disparam notificações reais. Ativação final exige credencial Nexum válida e um teste de cobrança/pagamento real autorizado pelo responsável.
 
 Documentação utilizada: https://app.nexumpaybot.com/api/index.html
-
